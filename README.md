@@ -1,9 +1,9 @@
 # Hi there, I'm Muhammad Zohaib Akhtar 👋
 ### Android & Cross-Platform Mobile Engineer
 
-I am a professional **Android Developer** based in Islamabad, Pakistan, specializing in building, optimizing, and maintaining robust mobile applications. My expertise covers native Android development (Kotlin & Java) as well as cross-platform engineering with Flutter & Dart. I focus on writing maintainable code, integrating complex APIs, and delivering seamless offline-first architectures.
+I am a professional **Android Developer** specializing in building, optimizing, and maintaining robust mobile applications. My expertise covers native Android development (Kotlin & Java) as well as cross-platform engineering with Flutter & Dart. I focus on writing maintainable code, integrating complex APIs, and delivering seamless offline-first architectures.
 
-- 🛠️ Currently working as an **Android Developer at POSS**.
+- 🛠️ Currently working as an **Android Developer**.
 - 🚀 Passionate about Clean Architecture, reactive streams, and fluid UI experiences.
 - 💬 Ask me about: **Kotlin, Flutter, Firebase Ecosystem, and Offline Sync Implementation**.
 
@@ -50,7 +50,7 @@ I am a professional **Android Developer** based in Islamabad, Pakistan, speciali
 ---
 
 ## 📫 Connect with Me
-* 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/muhammad-zohaib-akhtar)
+* 💼 **LinkedIn:** [Muhammad Zohaib Akhtar](https://www.linkedin.com/in/muhammad-zohaib-akhtar)
 * 📧 **Email:** zohaibakhtar2526@gmail.com
 * 📍 **Location:** Islamabad, Pakistan
 *
