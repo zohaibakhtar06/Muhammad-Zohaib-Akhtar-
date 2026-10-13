@@ -13,9 +13,9 @@ I am a professional **Android Developer** based in Islamabad, Pakistan, speciali
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Kotlin](https://shields.io) ![Java](https://shields.io) ![Dart](https://shields.io) |
+| **Languages** | Kotlin, Java, Dart |
 | **Android Development** | Android SDK, XML Layouts, Navigation Component, Fragments, RecyclerView, Material Design |
-| **Cross-Platform** | ![Flutter](https://shields.io) Provider State Management, Camera Integration, TTS Engine |
+| **Cross-Platform** | Flutter, Provider State Management, Camera Integration, TTS Engine |
 | **Database & Cache** | Room DB, Firebase Firestore, Realtime Database, SharedPreferences |
 | **Networking & APIs** | RESTful APIs, Retrofit, JSON Integration |
 | **Firebase Suite** | Firebase Auth, Crashlytics, Cloud Storage, Push Notifications |
@@ -50,7 +50,7 @@ I am a professional **Android Developer** based in Islamabad, Pakistan, speciali
 ---
 
 ## 📫 Connect with Me
-* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/muhammad-zohaib-akhtar)
 * 📧 **Email:** zohaibakhtar2526@gmail.com
 * 📍 **Location:** Islamabad, Pakistan
 *
